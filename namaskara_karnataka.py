@@ -1,1 +1,2 @@
-print "(namaskara karnataka")
+print ("namaskara karnataka") 
+print (" namasthe kannadigare")
